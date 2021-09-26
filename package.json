@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a00-niazi-m/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a00-niazi-m#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a00-niazi-m#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
